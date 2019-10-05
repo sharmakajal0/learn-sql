@@ -94,3 +94,5 @@ INSERT INTO `drink_info`
         (NULL, 'Indian Summer', '2.8', '7.2', 'brown', 'N', '30'), 
         (NULL, 'Bull Frog', '2.6', '21.5', 'tan', 'Y', '80'),
         (NULL, 'Soda and It', '3.8', '4.7', 'red', 'N', '19');
+        
+
